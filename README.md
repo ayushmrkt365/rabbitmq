@@ -1,3 +1,5 @@
+YOUTUBE VIDEO - https://www.youtube.com/watch?v=-yU95ocpBYs
+
 Official repository for TGI RabbitMQ, a series of videos produced by the RabbitMQ team.
 
 This show is inspired by [TGI Kubernetes](https://github.com/vmware-tanzu/tgik) - thank you! - with a couple of important differences:
